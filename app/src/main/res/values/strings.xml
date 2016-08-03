@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Carteira</string>
+    <string name="tipo_despesa">Tipo Despesa</string>
+    <string-array name="tipo_despesa">
+        <item>Dinheiro</item>
+        <item>Débito BB</item>
+        <item>Débito Santander</item>
+        <item>Cartão Visa...5512</item>
+        <item>Cartao Visa...2435</item>
+        <item>Cartão Master...2497</item>
+        <item>Cartão hipercard</item>
+        <item>Cartão Celebre!</item>
+    </string-array>
+
+</resources>
